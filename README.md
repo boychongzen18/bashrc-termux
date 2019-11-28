@@ -2,6 +2,12 @@
 
 # Creator @ Boychongzen aka Xroot
 
+pkg update && pkg upgrade -y
+
+pkg install git nano python python2 php -y
+
+touch .hushlogin
+
 
 # Tampilan LOGO Bashrc Termux  
 ![be](https://raw.githubusercontent.com/boychongzen18/bashrc-termux/master/bashrc.png)
